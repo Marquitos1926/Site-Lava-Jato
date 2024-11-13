@@ -1,0 +1,40 @@
+.carousel-inner{
+    width: 1920px;
+    height: 720px;
+    border-radius: 10px;
+    text-align: center;
+}            
+
+.carousel-caption{
+    color:aquamarine;
+}
+
+.accordion{
+    padding-left: 100px;
+    padding-top: 20px;
+    width: 1600px;    color: aquamarine;
+}
+
+.accordion-header{
+    background-color: aquamarine;
+
+}
+
+.carousel-control-prev{
+    width: 1000px;
+    color: aquamarine;
+}
+.carousel-control-next{
+    width: 1000px;
+}
+
+.nossos{
+    text-align: center;
+}
+
+.video{
+    width: 1920px;
+    height: 720px;
+    border-radius: 10px;
+    text-align: center;
+}
